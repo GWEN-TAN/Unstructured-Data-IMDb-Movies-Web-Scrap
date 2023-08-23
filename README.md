@@ -1,5 +1,5 @@
 # Unstructured-Data-IMDb-Movies-Web-Scrap
-This is an individual assignment under the course Unstructured Data Analytics.
+This is task 2 of an individual assignment under the course Unstructured Data Analytics.
 
 ## Instructions
 Find any website that have multiple pages regarding **movies of two different genres**.
@@ -19,3 +19,4 @@ The submission due date was 14 May 2023.
 * Website: IMDb website
 * Genres selected: musical movies and animation movies
 * Information gained: movie title, released year, duration (in minutes), rating (from 1 to 10), number of votes (number of users cast in rating) and the name(s) of director(s)
+* Date scrapped: 06 May 2023
